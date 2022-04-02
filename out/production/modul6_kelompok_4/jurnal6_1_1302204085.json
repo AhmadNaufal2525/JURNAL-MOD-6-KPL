@@ -1,0 +1,19 @@
+{
+   "firstName": "Ahmad Naufal",
+   "lastName": "Diwantara Putra",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Katapang",
+       "city": "Bandung",
+       "state": "Jawa Barat"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CII3B4", "name": "Pemrograman Berorientasi Objek" },
+       { "code": "CII2A3", "name": "Organisasi dan Arsitektur Komputer" },
+       { "code": "CR12D3", "name": "Kecerdasan Buatan" },
+       { "code": "CR12G1", "name": "Teknologi Perangkat Lunak Untuk Masyarakat" },
+       { "code": "CR12F2", "name": "Proyek Tingkat II" }
+   ]
+}
