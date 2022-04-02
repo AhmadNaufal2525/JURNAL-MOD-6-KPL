@@ -1,0 +1,37 @@
+{
+  "firstName": "Akbar Sirajuddin",
+  "lastName": "Hanif",
+  "gender": "male",
+  "age": 20,
+  "address": {
+    "streetAddress": "Bojongsoang",
+    "city": "Bandung",
+    "state": "West Java"
+  },
+  "courses": [
+    {
+      "code": "CR12F2",
+      "name": "PROYEK TINGKAT II SE-44-03 [VRE]"
+    },
+    {
+      "code": "CII2A3",
+      "name": "ORGANISASI DAN ARSITEKTUR KOMPUTER SE-44-03 [FBW]"
+    },
+    {
+      "code": "CR12D3",
+      "name": "KECERDASAN BUATAN SE-44-03 [KMM]"
+    },
+    {
+      "code": "CR12G1",
+      "name": "TEKNOLOGI PERANGKAT LUNAK UNTUK MASYARAKAT SE-44-03 [FVE]"
+    },
+    {
+      "code": "CII3B4",
+      "name": "PEMROGRAMAN BERORIENTASI OBJEK SE-44-03 [MTD]"
+    },
+    {
+      "code": "CRI2C4",
+      "name": "KONSTRUKSI PERANGKAT LUNAK SE-44-03 [HIK]"
+    }
+  ]
+}
