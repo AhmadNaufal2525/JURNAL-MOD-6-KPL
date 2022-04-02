@@ -1,0 +1,15 @@
+{
+   "firstName": "Jeremia",
+   "lastName": "Carlo",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Bojongsoang",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2C9", "name": "Analisis Kompleksitas Algoritma" }
+   ]
+}
