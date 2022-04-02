@@ -1,0 +1,46 @@
+{
+  "members" : [
+    {
+      "firstName": "Ahmad Naufal",
+      "lastName": "Diwantara Putra",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204085"
+    },
+    {
+       "firstName": "Afif Fajar",
+       "lastName": "Reyhan",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302204076"
+    },
+    {
+      "firstName": "Akbar",
+      "lastName": "Sirajuddin Hanif",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204057"
+    },
+    {
+       "firstName": "Jeremia Carlo",
+       "lastName": "Christianto Silitonga",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302204115"
+    },
+    {
+      "firstName": "Hilmi",
+      "lastName": "Fadhillah Cahyadi",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302200124"
+    },
+    {
+      "firstName": "Tasyrika",
+      "lastName": "Nurul Hajar",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302201131"
+    }
+  ]
+}
